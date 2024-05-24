@@ -12,8 +12,8 @@ export default defineConfig({
     logo,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '测试1', link: '/' },
+      { text: '测试2', link: '/markdown-examples' }
     ],
 
     sidebar: [
