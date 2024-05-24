@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "陈龙的个人博客"
-  text: "一名有趣帅气的前端工程师的每日博客"
+  text: "一名有趣的前端工程师的每日博客"
   tagline: 种一棵树最好的时间是十年前，其次就是现在。
   image:
       src: /img/logo.png
@@ -12,11 +12,8 @@ hero:
       imgId: myBgImg
   actions:
     - theme: brand
-      text: 测试地址
-      link: /markdown-examples
-    - theme: alt
-      text: 测试地址
-      link: /api-examples
+      text: 个人介绍
+      link: /blogs/introduce/self-introduction
 
 features:
   - title: 📚 积累
