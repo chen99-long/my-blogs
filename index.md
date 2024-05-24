@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "陈龙的博客"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "陈龙的个人博客"
+  text: "一名有趣帅气的前端工程师的每日博客"
+  tagline: 一以贯之的努力，不得懈怠的人生
   actions:
     - theme: brand
       text: Markdown Examples
