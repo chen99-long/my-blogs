@@ -35,6 +35,6 @@ lang: zh-CN
 
 ## 联系方式
 
-- 邮箱：<a href="mailto:1422272907@qq.com">clsyy411@gmail.com</a>
+- 邮箱：<a href="mailto:1422272907@qq.com">1422272907@qq.com</a>
 - 微信：<span>1422272907</span>
 - bilibili：[https://space.bilibili.com/264203170](https://space.bilibili.com/264203170)
