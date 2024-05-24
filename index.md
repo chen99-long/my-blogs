@@ -8,10 +8,10 @@ hero:
   tagline: 一以贯之的努力，不得懈怠的人生
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 测试地址
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 测试地址
       link: /api-examples
 
 features:
