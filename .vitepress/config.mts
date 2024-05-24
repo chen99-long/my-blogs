@@ -14,6 +14,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {
+        text: '每日博客', items: [
+          { text: '博客建站第一天', link: '/blogs/everyday-blogs/day01' },
+        ]
+      },
+      {
         text: '前端', items: [
           { text: '闭包和内存泄漏', link: '/blogs/front-end/test1' },
         ]
