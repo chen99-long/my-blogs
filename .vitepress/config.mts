@@ -56,7 +56,7 @@ export default defineConfig({
     // ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/chen99-long' }
+      { icon: 'github', link: 'https://github.com/chen99-long/my-blogs' }
     ]
   }
 })
