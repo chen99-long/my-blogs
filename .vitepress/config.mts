@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { set_sidebar } from '../node-utils/auto-set-nav-item.mjs'
 
 const logo = "/img/logo.png"
 // https://vitepress.dev/reference/site-config
@@ -14,10 +15,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {
-        text: '每日博客', items: [
-          { text: '博客建站第一天', link: '/blogs/everyday-blogs/day01' },
-          { text: 'day02', link: '/blogs/everyday-blogs/day02' },
-        ]
+        text: '每日博客', items: set_sidebar("blogs/everyday-blogs")
       },
       {
         text: '前端', items: [
