@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: '每日博客', items: [
           { text: '博客建站第一天', link: '/blogs/everyday-blogs/day01' },
+          { text: 'day02', link: '/blogs/everyday-blogs/day02' },
         ]
       },
       {
