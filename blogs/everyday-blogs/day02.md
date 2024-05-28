@@ -1,5 +1,5 @@
 ---
-title: 每日博客第一天
+title: 每日博客第二天
 lang: zh-CN
 ---
 
