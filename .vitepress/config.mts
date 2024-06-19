@@ -18,6 +18,13 @@ export default defineConfig({
         text: '每日博客', items: set_sidebar("blogs/everyday-blogs")
       },
       {
+        text:'技术积累',items:[
+          {
+            text:"本地命令行工具libreoffice 完成docx转pdf",link:"/blogs/technology/libreoffice.md"
+          }
+        ]
+      },
+      {
         text: '前端', items: [
           { text: '闭包和内存泄漏', link: '/blogs/front-end/test1' },
         ]
