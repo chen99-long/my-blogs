@@ -16,9 +16,10 @@ lang: zh-CN
 ## 技术栈
 
 - 编程语言：javascript、Python、typescript
-- 前端框架：Vue、React、electron
-- 后端框架：Next.js、egg.js、express
+- 前端框架：Vue、React、electron,Nuxt,Next
+- 后端框架：nest.js、egg.js、express
 - 数据库：MySQL、MongoDB、Redis
+- 运维：nginx、docker
 - 版本管理：Git
 
 ## 开源项目
