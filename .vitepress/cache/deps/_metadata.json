@@ -1,43 +1,43 @@
 {
-  "hash": "6bf15b34",
-  "configHash": "f5c1c79e",
+  "hash": "8ef2979c",
+  "configHash": "82617830",
   "lockfileHash": "ef5a963f",
-  "browserHash": "a5289cdf",
+  "browserHash": "d4824111",
   "optimized": {
     "vue": {
       "src": "../../../../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "5bf2eca7",
+      "fileHash": "88f4049a",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.2.1_vue@3.4.27/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "02aed5ca",
+      "fileHash": "5897cc49",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.27/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "ffdfc69f",
+      "fileHash": "a1dab861",
       "needsInterop": false
     },
     "@theme/index": {
-      "src": "../../../../../../../node_modules/vitepress/dist/client/theme-default/index.js",
+      "src": "../../../../../../../node_modules/.pnpm/vitepress@1.2.2_@algolia+client-search@4.23.3_@types+node@20.12.12_postcss@8.4.38_search-insights@2.13.0/node_modules/vitepress/dist/client/theme-default/index.js",
       "file": "@theme_index.js",
-      "fileHash": "b957e2d7",
+      "fileHash": "414d5f16",
       "needsInterop": false
     },
     "vue-demi": {
-      "src": "../../../../../../../node_modules/vitepress/lib/vue-demi.mjs",
+      "src": "../../../../../../../node_modules/.pnpm/vitepress@1.2.2_@algolia+client-search@4.23.3_@types+node@20.12.12_postcss@8.4.38_search-insights@2.13.0/node_modules/vitepress/lib/vue-demi.mjs",
       "file": "vue-demi.js",
-      "fileHash": "f35de4ce",
+      "fileHash": "4f07a08a",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-RWV6T7VY": {
-      "file": "chunk-RWV6T7VY.js"
+    "chunk-XJAALGNT": {
+      "file": "chunk-XJAALGNT.js"
     },
     "chunk-AVRZDC24": {
       "file": "chunk-AVRZDC24.js"

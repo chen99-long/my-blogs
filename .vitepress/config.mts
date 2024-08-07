@@ -21,6 +21,9 @@ export default defineConfig({
         text: '技术积累', items: [
           {
             text: "本地命令行工具libreoffice 完成docx转pdf", link: "/blogs/technology/libreoffice.md"
+          },
+          {
+            text:"docker镜像源最新解决方案",link:"/blogs/technology/dockerpull.md"
           }
         ]
       },
@@ -38,10 +41,6 @@ export default defineConfig({
       {
         text: '数据结构与算法', items: [
           { text: '二分查找', link: '/blogs/data-structures/binary-search' }
-        ]
-      },
-      {
-        text: 'nestjs', items: [
         ]
       }
     ],
