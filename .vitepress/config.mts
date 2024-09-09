@@ -31,6 +31,7 @@ export default defineConfig({
         text: '前端', items: [
           { text: '闭包和内存泄漏', link: '/blogs/front-end/memory-leak' },
           { text: '三分钟教你速成Nuxt3', link: '/blogs/front-end/simple-nuxt' },
+          { text: '网上都说操作真实 DOM 慢，但测试结果却比 React 更快，为什么？', link: '/blogs/front-end/virtual-dom' },
         ]
       },
       {
