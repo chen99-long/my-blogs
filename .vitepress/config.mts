@@ -41,7 +41,8 @@ export default defineConfig({
       },
       {
         text: '数据结构与算法', items: [
-          { text: '二分查找', link: '/blogs/data-structures/binary-search' }
+          { text: '二分查找', link: '/blogs/data-structures/binary-search' },
+          { text: '动态规划问题', link: '/blogs/data-structures/dp-question' },
         ]
       }
     ],
